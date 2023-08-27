@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33be4690.css",
+    "main.js": "/static/js/main.ca602b51.js",
+    "static/media/background.png": "/static/media/background.c43d05663488c9e742ab.png",
+    "static/media/portrait_momenta.jpg": "/static/media/portrait_momenta.495be423288c1183768c.jpg",
+    "static/media/bilibili.svg": "/static/media/bilibili.7d63c8e8df76073d8e182be6ca714600.svg",
+    "static/media/github.svg": "/static/media/github.4341b577d5771c696d35394e80bb97fa.svg",
+    "static/media/email.svg": "/static/media/email.1f54e7912d2a2c32ae2472f59a61eef9.svg",
+    "index.html": "/index.html",
+    "main.33be4690.css.map": "/static/css/main.33be4690.css.map",
+    "main.ca602b51.js.map": "/static/js/main.ca602b51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33be4690.css",
+    "static/js/main.ca602b51.js"
+  ]
+}

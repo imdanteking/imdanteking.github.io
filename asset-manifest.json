@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a1c23c22.css",
-    "main.js": "/static/js/main.ce84d448.js",
+    "main.js": "/static/js/main.08abf53f.js",
     "static/media/background.png": "/static/media/background.c43d05663488c9e742ab.png",
     "static/media/xinhuaxi_fqhn.jpg": "/static/media/xinhuaxi_fqhn.07589a16f173c10e7663.jpg",
     "static/media/portrait_momenta.jpg": "/static/media/portrait_momenta.495be423288c1183768c.jpg",
@@ -10,13 +10,13 @@
     "static/media/github.svg": "/static/media/github.4341b577d5771c696d35394e80bb97fa.svg",
     "static/media/twitter.svg": "/static/media/twitter.44cb277408590e395b13d2da17510bcd.svg",
     "static/media/blog.svg": "/static/media/blog.02dd263dd237861e2edc9191e50646e7.svg",
-    "static/media/email.svg": "/static/media/email.1f54e7912d2a2c32ae2472f59a61eef9.svg",
     "index.html": "/index.html",
+    "static/media/email.svg": "/static/media/email.2a618d903204c009f098d551e2d783c1.svg",
     "main.a1c23c22.css.map": "/static/css/main.a1c23c22.css.map",
-    "main.ce84d448.js.map": "/static/js/main.ce84d448.js.map"
+    "main.08abf53f.js.map": "/static/js/main.08abf53f.js.map"
   },
   "entrypoints": [
     "static/css/main.a1c23c22.css",
-    "static/js/main.ce84d448.js"
+    "static/js/main.08abf53f.js"
   ]
 }
